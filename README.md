@@ -1,7 +1,9 @@
 # -_sistema_de_gestion_de_cursos_- :.
 🎓 Sistema de Gestión de Cursos:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c0e019e-8fc0-474a-aafb-7c5e37424790" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c0e019e-8fc0-474a-aafb-7c5e37424790" />    
+
+<img width="2550" height="1076" alt="image" src="https://github.com/user-attachments/assets/ec1eb1dd-335f-4f6e-b3ab-7ddb38983daf" />        
 
 Java (Consola) + Oracle 19c.
 
